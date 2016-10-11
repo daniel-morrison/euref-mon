@@ -1,0 +1,25 @@
+{
+  "name": "euref-mon",
+  "version": "1.0.0",
+  "description": "Monitor media during EU Ref ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-morrison/euref-mon.git"
+  },
+  "keywords": [
+    "EURef"
+  ],
+  "author": "Daniel Morrison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniel-morrison/euref-mon/issues"
+  },
+  "homepage": "https://github.com/daniel-morrison/euref-mon#readme",
+  "dependencies": {
+    "pageres": "^4.1.2"
+  }
+}
